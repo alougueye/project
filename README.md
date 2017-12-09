@@ -85,6 +85,36 @@ Voici quels outils pour Personnaliser Ubuntu
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
+La distribution etant orientee education avec un programme senegalais, nous vous recommandons de nous faire part de votre contribution via les moyens de communications que nous avons mis a votre disposition.
+
+Merci de noter que  nous avons un code de conduite que vous pouvez suivre dans tous vos interventions sur le projet.
+
+Code de conduite
+
+### Engagement
+Afin de favoriser un environnement de travail ouvert et accueillant, nous contributeurs et moderateurs, nous engageons à faire de cette espace un environnement de travail sans harcèlement pour tous où tout monde peut intervenir indépendamment de l'âge, de la taille, du handicap, de l'ethnicité, de l'identité sexuelle et de l'expression. niveau d'expérience, nationalité, apparence personnelle, race, religion, identité sexuelle et orientation pour la realisation de ce projet.
+
+
+### Normes
+
+##### Nous recommandons quelques comportements pour creer un environnement positif pour une une bonne marche du travail collectif:
+
+Un langage inclusifs et respectueux dans toutes les interactions
+Respecter le point de vue de tout un chacun
+Accepter gracieusement la critique constructive
+Mettre l'accent sur ce qui est le mieux pour la communauté
+Montrer de l'empathie envers les autres membres de la communauté
+
+#### Quelques comportement a eviter:
+
+L’utilisation de tout langage ou image a l’attirance sexuelle
+Faire des commentaires insultants ou toute derogation
+Faire des attaques personnelles ou politiques
+Harcèlement public ou privé
+Publication des informations privées des autres, telles qu'une adresse physique ou électronique, sans autorisation explicite de la personne concernée
+Autre comportement qui pourrait raisonnablement être considéré comme inapproprié dans le context du projet AfriDaara
+
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
